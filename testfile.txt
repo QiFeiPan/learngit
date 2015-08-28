@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Change author name again.
 Creating a new branch is quick and simple test again.
+分支策略管理测试
